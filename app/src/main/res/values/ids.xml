@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayout11a" type="id">a1</item>
+    <item name="linearLayout12a" type="id">a2</item>
+    <item name="linearLayout13a" type="id">a3</item>
+    <item name="field1ca" type="id">a4</item>
+    <item name="linearLayout32" type="id">a5</item>
+    <item name="linearLayout" type="id">a6</item>
+    <item name="field1aba" type="id">a7</item>
+    <item name="editTextTextPersonName4" type="id">a8</item>
+    <item name="textView3" type="id">i1</item>
+    <item name="textView4" type="id">i2</item>
+    <item name="textView5" type="id">i3</item>
+</resources>

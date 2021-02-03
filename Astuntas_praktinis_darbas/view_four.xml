@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/field1a"
+            android:layout_width="match_parent"
+            android:layout_height="243dp"
+            android:layout_weight="1"
+            android:background="#C70039" />
+
+        <TextView
+            android:id="@+id/field1bb"
+            android:layout_width="match_parent"
+            android:layout_height="243dp"
+            android:layout_weight="1"
+            android:background="@color/zalia" />
+
+        <TextView
+            android:id="@+id/field1c"
+            android:layout_width="match_parent"
+            android:layout_height="243dp"
+            android:layout_weight="1"
+            android:background="@color/melyna" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/field1b"
+            android:layout_width="match_parent"
+            android:layout_height="243dp"
+            android:layout_weight="1"
+            android:background="#C70039" />
+
+        <TextView
+            android:id="@+id/field1bbb"
+            android:layout_width="match_parent"
+            android:layout_height="243dp"
+            android:layout_weight="1"
+            android:background="#E6AFDC" />
+
+        <TextView
+            android:id="@+id/field1bc"
+            android:layout_width="match_parent"
+            android:layout_height="243dp"
+            android:layout_weight="1"
+            android:background="@color/melyna" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/field21"
+            android:layout_width="match_parent"
+            android:layout_height="243dp"
+            android:layout_weight="1"
+            android:background="#C70039" />
+
+        <TextView
+            android:id="@+id/field22"
+            android:layout_width="match_parent"
+            android:layout_height="243dp"
+            android:layout_weight="1"
+            android:background="@color/geltona" />
+
+        <TextView
+            android:id="@+id/field23"
+            android:layout_width="match_parent"
+            android:layout_height="243dp"
+            android:layout_weight="1"
+            android:background="@color/melyna" />
+    </LinearLayout>
+</LinearLayout>
+
